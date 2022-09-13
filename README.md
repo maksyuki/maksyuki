@@ -1,7 +1,7 @@
 <h3 align="center">👋 Hello! I'm maksyuki.</h3>
 
 <p align="center">
-    <a href="https://maksyuki.com" target="_blank">Personal website</a> •
+    <a href="http://maksyuki.com" target="_blank">Personal website</a> •
     <a href="https://www.zhihu.com/people/maksyuki" target="_blank">ZhiHu homepage</a> •
     <a href="mailto:maksyuki@126.com">Email address</a> 
 </p>
