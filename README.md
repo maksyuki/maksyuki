@@ -2,9 +2,9 @@
 
 <p align="center">
     <a href="http://github.com/maksyuki" target="_blank">Resume</a> •
-    <a href="http://maksyuki.com" target="_blank">Personal website</a> •
-    <a href="https://www.zhihu.com/people/maksyuki" target="_blank">ZhiHu homepage</a> •
-    <a href="mailto:maksyuki@126.com">Email address</a> 
+    <a href="http://maksyuki.com" target="_blank">Personal Website</a> •
+    <a href="https://www.zhihu.com/people/maksyuki" target="_blank">ZhiHu Homepage</a> •
+    <a href="mailto:maksyuki@126.com">Email Address</a> 
 </p>
 
 ---
