@@ -1,5 +1,5 @@
 <h3 align="center">👋 Hello! I'm maksyuki.</h3>
-<h4 align="center">Passionate about IP, SoC architecture design and embedded sysytem. </h4>
+<h3 align="center">Passionate about IP, SoC architecture design and embedded sysytem. </h3>
 <p align="center">
     <a href="http://github.com/maksyuki" target="_blank">Resume</a> •
     <a href="http://maksyuki.com" target="_blank">Personal Website</a> •
