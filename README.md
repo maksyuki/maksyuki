@@ -1,5 +1,5 @@
 <h3 align="center">👋 Hello! I'm maksyuki.</h3>
-<h3 align="center">Passionate about IP, SoC architecture, ASIC physical design and embedded sysytem </h3>
+<h3 align="center">Passionate about Open Source IP, SoC architecture, ASIC physical design and embedded sysytem </h3>
 <p align="center">
     <a href="https://github.com/maksyuki/cv/blob/feat-cv/resume.pdf" target="_blank">Resume</a> •
     <a href="http://maksyuki.com" target="_blank">Personal Website</a> •
