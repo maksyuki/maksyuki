@@ -8,17 +8,19 @@
 </p>
 
 ---
-<!-- <div align=center>    
+<div align=center>    
+
 ![maksyuki's github stats](https://github-readme-stats.vercel.app/api?username=maksyuki&theme=gruvbox&hide_border=true&show_icons=true&count_private=true&card_width=400)
 ![maksyuki's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=maksyuki&theme=gruvbox&layout=compact&hide_border=true&card_width=400)
 </div>
--->
+
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maksyuki&layout=compact&text_color=daf7dc&bg_color=151515&hide=css,html,php)](https://github.com/anuraghazra/github-readme-stats) -->
 
-<p align = "center">
+<!-- <p align = "center">
     <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=maksyuki&theme=gruvbox&hide_border=true&show_icons=true&count_private=true" width=400>
     <img src="https://github-readme-streak-stats.herokuapp.com?user=maksyuki&theme=gruvbox&hide_border=true" width=400>
 </p>
+--!>
 
 <p align = "center">
 <!--     <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=maksyuki&theme=gruvbox&hide_border=true&show_icons=true&count_private=true" width=300> -->
