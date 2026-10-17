@@ -6,7 +6,6 @@
     <a href="https://www.zhihu.com/people/maksyuki" target="_blank">ZhiHu Homepage</a> •
     <a href="mailto:maksyuki@126.com">Email Address</a> 
 </p>
-<h5 align="center">Personality: INFJ-T</h5>
 
 ---
 <!-- <div align=center>    
